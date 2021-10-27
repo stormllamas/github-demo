@@ -1,11 +1,10 @@
 # github-demo
-Github Demo from Storm Llamas course
+Github Demo from Jason Taylor course
 
 ##  Intro
 Edit for Intro
 
-This is main
 
-This is an edit from main
+This is from dev
 
-another edit from main
+another edit from dev
