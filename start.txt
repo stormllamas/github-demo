@@ -2,4 +2,3 @@ Test Git Quick Start demo
 
 
 Here is a new edit for difftool
-master edit only
